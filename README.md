@@ -2,6 +2,8 @@
 
 This is a Pong clone I made a few years ago when I learned how to use the canvas tag in HTML. I attempted to mimic the look and behavior of the original Pong arcade as much as I could.
 
+Just keep the HTML file and the JS file in the same directory and open the HTML file in a web browser to play the game.
+
 W and S control the left paddle (Player 1)</br>
 Up and Down arrow keys control the right paddle (Player 2)
 
